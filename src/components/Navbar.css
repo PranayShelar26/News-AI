@@ -6,3 +6,7 @@
 .navbar-brand:hover{
     color: #33cc33;
 }
+
+.letter-spacing-md{
+    letter-spacing: 0.02em !important;
+}
