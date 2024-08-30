@@ -1,4 +1,5 @@
 News AI
+
 This is a React.js and Bootstrap based news aggregator app designed to keep you updated with the latest news. I developed this project with the following key features:
 
 Infinite Scroll: Seamlessly load more news articles as you scroll down, providing a smooth and uninterrupted reading experience.
