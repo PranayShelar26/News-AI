@@ -1,0 +1,13 @@
+
+.nav-link{
+    color: #c3c1c1 !important;
+    transition: all 0.2s ease-in-out;
+}
+
+.nav-link:hover{
+    color: #ffff !important;
+}
+
+.copywright{
+    color: #acaaaa;
+}
